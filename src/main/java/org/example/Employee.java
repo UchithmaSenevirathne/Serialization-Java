@@ -5,5 +5,7 @@ public class Employee implements java.io.Serializable{
     public String address;
     public transient int NIC;
     public int number;
-
+    public void mailCheck(){
+        System.out.println("Mailing a check to " + name + " " + address);
+    }
 }
