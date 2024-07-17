@@ -4,3 +4,5 @@
 <hr>
 
 <i>follow the link</i>
+
+https://docs.google.com/document/d/1OVu15GvRknPgZOq5O-1t4jh_sGBcLTbxHLMibt--WmA/edit?usp=sharing
